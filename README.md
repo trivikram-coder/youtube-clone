@@ -63,7 +63,8 @@ You can just double-click the file, or
 Use Live Server if you're using VS Code.
 
 📸 Preview
-[Screenshot 2025-03-25 201403](https://github.com/user-attachments/assets/2ca3380d-a0cd-4125-8736-c904ad872a64)
+![Screenshot 2025-06-30 193052](https://github.com/user-attachments/assets/50c07358-8b23-49ab-a755-9dd330799f83)
+
 
 📌 Notes
 This is a static front-end UI clone with no real YouTube API integration.
