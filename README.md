@@ -1,3 +1,4 @@
+
 📺 YouTube Clone
 A simplified YouTube UI clone built using HTML, CSS, and JavaScript, designed to mimic the look and feel of the real YouTube interface. This project focuses on front-end layout and responsiveness, without video upload or authentication.
 
@@ -52,7 +53,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/trivikram-coder![Screenshot 2025-03-25 201403](https://github.com/user-attachments/assets/2ca3380d-a0cd-4125-8736-c904ad872a64)
+git clone https://github.com/trivikram-coder!
 /youtube-clone.git
 cd youtube-clone
 Open index.html in your browser:
@@ -62,7 +63,7 @@ You can just double-click the file, or
 Use Live Server if you're using VS Code.
 
 📸 Preview
-Add screenshots of the homepage or responsive views here.
+[Screenshot 2025-03-25 201403](https://github.com/user-attachments/assets/2ca3380d-a0cd-4125-8736-c904ad872a64)
 
 📌 Notes
 This is a static front-end UI clone with no real YouTube API integration.
