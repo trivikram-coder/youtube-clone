@@ -53,8 +53,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/trivikram-coder
-/youtube-clone.git
+git clone https://github.com/trivikram-coder/youtube-clone.git
 cd youtube-clone
 Open index.html in your browser:
 
